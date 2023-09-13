@@ -1,4 +1,4 @@
-Craeting AlexNet on CIFAR10 dataset
+# Creating AlexNet on CIFAR10 dataset
 
 AlexNet was the first convolutional network which used GPU to boost performance. 
 
